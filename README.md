@@ -4,10 +4,7 @@
 *Semantic search engine that helps pilots quickly access critical procedures*
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)](https://www.kaggle.com/themuneeb99/pilot-manual)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-![Hero Image](https://example.com/f16-chatbot-hero.jpg)  
-*AI-generated concept of the chatbot in action*
+[![Medium](https://medium.com/@miqbal83a/building-an-ai-chatbot-for-f-16-pilot-manuals-a-technical-deep-dive-8262edaacae5)](BLOG)
 
 ## ✨ Features
 
